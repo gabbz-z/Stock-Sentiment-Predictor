@@ -41,5 +41,18 @@ Example Outputs:
     * Highlighting key features driving the predictions.
 3. Actual vs Predicted Trends:
     * A plot comparing the model's predictions with the actual stock movements.
+  
 
 
+<img width="1134" alt="Results" src="https://github.com/user-attachments/assets/18781da4-daed-4fa5-9572-57ce20bcd055" />
+
+
+
+![SentimentCode_Alphabet](https://github.com/user-attachments/assets/7bee9932-d0ba-4129-820d-ab7f5af48355)
+
+
+
+![SentimentCode_Alphabet1](https://github.com/user-attachments/assets/600da1a0-3a55-417f-a732-f62698ca694a)
+
+
+![SentimentCode_Alphabet2](https://github.com/user-attachments/assets/7cba05bc-8ef6-41ce-88a2-4f971f59f872)
