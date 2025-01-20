@@ -2,8 +2,8 @@ import pandas as pd
 import re
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
-# Paths to your uploaded files
-news_file_path = "financial_news1.csv"  # Replace with the path to your news file
+# Paths to uploaded files
+news_file_path = "financial_news1.csv" 
 stock_files = {
     "DJI": "DJI 2021_2024_D.csv",
     "Alphabet": "Alphabet 2021_2024_D.csv",
